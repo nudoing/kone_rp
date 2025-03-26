@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 23,
+        "model": {
+          "type":"minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type":"minecraft:model",
+            "model": "koneshimaex:item/tate_pu_guard"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model":"koneshimaex:item/tate_pu"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type":"minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": {
+        "type":"minecraft:model",
+        "model": "koneshimaex:item/tate_pu_guard"
+      },
+      "on_false": {
+        "type":"minecraft:model",
+        "model": "koneshimaex:item/tate_pu"
+      }
+    }
+  }
+}

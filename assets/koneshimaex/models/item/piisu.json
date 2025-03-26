@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "koneshimaex:item/piisu"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [69, 0, 0],
+			"translation": [0, 4.25, 7.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [69, 180, 0],
+			"translation": [0, 4.25, 7.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0]
+		},
+		"ground": {
+			"translation": [0, 2.25, 0]
+		},
+		"head": {
+			"translation": [0, 20, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

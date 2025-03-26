@@ -1,0 +1,21 @@
+{
+  "warai.cindy":{
+    "sounds": [
+      {"name": "koneshimaex:warai/cindy1"},
+      {"name": "koneshimaex:warai/cindy2"},
+      {"name": "koneshimaex:warai/cindy3"}
+    ]
+  },
+  "warai.koneshima":{
+    "sounds": [
+      {"name": "koneshimaex:warai/koneshima1"},
+      {"name": "koneshimaex:warai/koneshima2"}
+    ]
+  },
+  "voice.nenii.oyasumi":{
+    "sounds": [
+      {"name": "koneshimaex:voice/nenii_oyasumi"}
+    ]
+  }
+
+}

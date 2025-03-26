@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "koneshimaex:item/konpeitou"
+	},
+	"display": {
+		"head": {
+			"translation": [0, 0, -8]
+		}
+	}
+}

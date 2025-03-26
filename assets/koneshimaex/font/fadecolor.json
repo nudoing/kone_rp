@@ -1,0 +1,49 @@
+{
+  "providers": [
+      {
+          "type": "bitmap",
+          "file": "koneshimaex:font/black.png",
+          "ascent": 64,
+          "height": 128,
+          "chars": [
+              "0"
+          ]
+      },
+      {
+        "type": "bitmap",
+        "file": "koneshimaex:font/white.png",
+        "ascent": 64,
+        "height": 128,
+        "chars": [
+            "1"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "koneshimaex:font/mabutama.png",
+        "ascent": 64,
+        "height": 128,
+        "chars": [
+            "2"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "koneshimaex:font/aisiteruze1.png",
+        "ascent": 32,
+        "height": 64,
+        "chars": [
+            "3"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "koneshimaex:font/aisiteruze2.png",
+        "ascent": 32,
+        "height": 64,
+        "chars": [
+            "4"
+        ]
+      }
+  ]
+}

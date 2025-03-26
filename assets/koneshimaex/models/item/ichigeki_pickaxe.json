@@ -1,0 +1,6 @@
+{
+  "parent": "koneoni:item/handheld_big",
+  "textures": {
+    "layer0": "minecraft:item/iron_pickaxe"
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "koneshimaex:item/galpi"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-89, 180, 24],
+			"translation": [2.25, 0.5, -3.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-89, 0, -24],
+			"translation": [2.25, 0.5, -3.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-89, 180, 24],
+			"translation": [2.25, 0.5, -3.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-89, 0, -24],
+			"translation": [2.25, 0.5, -3.5]
+		},
+		"ground": {
+			"rotation": [0, 0, 180],
+			"translation": [0, 2.25, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, 180]
+		},
+		"head": {
+			"rotation": [0, 0, 7],
+			"translation": [1.75, -14, -5.75],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [0, 0, 180]
+		}
+	}
+}
