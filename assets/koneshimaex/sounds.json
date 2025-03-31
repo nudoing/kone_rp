@@ -16,6 +16,11 @@
     "sounds": [
       {"name": "koneshimaex:voice/nenii_oyasumi"}
     ]
+  },
+  "music.otoge.summer_triangle":{
+    "sounds": [
+      {"name": "koneshimaex:music/summer_triangle"}
+    ]
   }
 
 }
