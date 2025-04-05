@@ -1,0 +1,8 @@
+{
+  "item.totem.use":{
+    "sounds": [
+      {"name": "koneshimaex:se/donpafu"}
+    ]
+  }
+
+}

@@ -21,6 +21,11 @@
     "sounds": [
       {"name": "koneshimaex:music/summer_triangle"}
     ]
+  },
+  "se.use_totem":{
+    "sounds": [
+      {"name": "minecraft:item/totem/use_totem"}
+    ]
   }
 
 }
