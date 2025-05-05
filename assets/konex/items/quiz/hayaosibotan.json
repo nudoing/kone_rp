@@ -1,0 +1,16 @@
+{
+  "hand_animation_on_swap": false,
+  "model": {
+    "type":"condition",
+    "property": "custom_model_data",
+    "index": 0,
+    "on_false": {
+      "type": "model",
+      "model": "konex:item/quiz/hayaosibotan_off"
+    },
+    "on_true": {
+      "type": "model",
+      "model": "konex:item/quiz/hayaosibotan_on"
+    }
+  }
+}
