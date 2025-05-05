@@ -1,0 +1,23 @@
+{
+  "quiz.syutudai":{
+    "sounds": [
+      {"name": "konex:quiz/syutudai"}
+    ]
+  },
+  "quiz.maru":{
+    "sounds": [
+      {"name": "konex:quiz/maru"}
+    ]
+  },
+  "quiz.batu":{
+    "sounds": [
+      {"name": "konex:quiz/batu"}
+    ]
+  },
+  "quiz.hayaosi":{
+    "sounds": [
+      {"name": "konex:quiz/hayaosi"}
+    ]
+  }
+
+}
