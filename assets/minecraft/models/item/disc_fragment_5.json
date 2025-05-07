@@ -1,0 +1,86 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/disc_fragment_5"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/fragment_bgmersixzero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/fragment_bgmersixzerozero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/fragment_bgmersixzerozerozero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/fragment_bgmersixzerozerozerozero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/fragment_bgmersixzerozerozerozerozero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/fragment_bgmersix"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/fragment_threebgmerone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/fragment_twoonebgmerone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/fragment_mbgmerone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/fragment_bgmeronezero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/fragment_xbgmerone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/fragment_bgmeronetwo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/fragment_bgmeronethree"
+    }
+  ]
+}
