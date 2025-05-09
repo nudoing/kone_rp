@@ -18,6 +18,132 @@
     "sounds": [
       {"name": "konex:quiz/hayaosi"}
     ]
+  },
+
+  "se.boyoyo_n":{
+    "sounds": [
+      {"name": "konex:se/boyoyo_n"}
+    ]
+  },
+  "se.buchu_":{
+    "sounds": [
+      {"name": "konex:se/buchu_"}
+    ]
+  },
+  "se.chanchan":{
+    "sounds": [
+      {"name": "konex:se/chanchan"}
+    ]
+  },
+  "se.chi_n_1":{
+    "sounds": [
+      {"name": "konex:se/chi_n_1"}
+    ]
+  },
+  "se.chie_nso__de_ki_wo_kiru_2":{
+    "sounds": [
+      {"name": "konex:se/chie_nso__de_ki_wo_kiru_2"}
+    ]
+  },
+  "se.denshirenji_de_chin":{
+    "sounds": [
+      {"name": "konex:se/denshirenji_de_chin"}
+    ]
+  },
+  "se.don":{
+    "sounds": [
+      {"name": "konex:se/don"}
+    ]
+  },
+  "se.doramuro_ru":{
+    "sounds": [
+      {"name": "konex:se/doramuro_ru"}
+    ]
+  },
+  "se.furiko_tokei_eko__iri":{
+    "sounds": [
+      {"name": "konex:se/furiko_tokei_eko__iri"}
+    ]
+  },
+  "se.jishukisei_pi__oto":{
+    "sounds": [
+      {"name": "konex:se/jishukisei_pi__oto"}
+    ]
+  },
+  "se.joukikikansha_no_kiteki_1":{
+    "sounds": [
+      {"name": "konex:se/joukikikansha_no_kiteki_1"}
+    ]
+  },
+  "se.kirakira_kagayaku_1":{
+    "sounds": [
+      {"name": "konex:se/kirakira_kagayaku_1"}
+    ]
+  },
+  "se.kyoukai_no_inori":{
+    "sounds": [
+      {"name": "konex:se/kyoukai_no_inori"}
+    ]
+  },
+  "se.manuke_7":{
+    "sounds": [
+      {"name": "konex:se/manuke_7"}
+    ]
+  },
+  "se.neko_no_ikaku":{
+    "sounds": [
+      {"name": "konex:se/neko_no_ikaku"}
+    ]
+  },
+  "se.neko_no_nakigoe_1":{
+    "sounds": [
+      {"name": "konex:se/neko_no_nakigoe_1"}
+    ]
+  },
+  "se.neko_no_nakigoe_3":{
+    "sounds": [
+      {"name": "konex:se/neko_no_nakigoe_3"}
+    ]
+  },
+  "se.pokan_togenkotsu":{
+    "sounds": [
+      {"name": "konex:se/pokan_togenkotsu"}
+    ]
+  },
+  "se.pyu_n_to_nige_ru":{
+    "sounds": [
+      {"name": "konex:se/pyu_n_to_nige_ru"}
+    ]
+  },
+  "se.ro_ru_no_shime":{
+    "sounds": [
+      {"name": "konex:se/ro_ru_no_shime"}
+    ]
+  },
+  "se.robotto_kidou_2":{
+    "sounds": [
+      {"name": "konex:se/robotto_kidou_2"}
+    ]
+  },
+  "se.shaki_n_1":{
+    "sounds": [
+      {"name": "konex:se/shaki_n_1"}
+    ]
+  },
+  "se.shindenzu_2":{
+    "sounds": [
+      {"name": "konex:se/shindenzu_2"}
+    ]
+  },
+  "se.sutajiamu_no_kansei":{
+    "sounds": [
+      {"name": "konex:se/sutajiamu_no_kansei"}
+    ]
+  },
+  "se.donsuzume_no_nakigoe_1":{
+    "sounds": [
+      {"name": "konex:se/suzume_no_nakigoe_1"}
+    ]
   }
 
 }
