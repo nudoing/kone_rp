@@ -30,7 +30,7 @@ jobs:
           filename: 'release.zip'
           exclusions: '*.git* .vscore/* release.zip'
       - name: Generate SHA-1
-        run: sha1sum release.zip | awk 'print &1' > sha1.txt
+        run: sha1sum release.zip | awk '{print &1}' > sha1.txt
       - name: Upload release
         uses: softprops/action-gh-release@v1
         with:
