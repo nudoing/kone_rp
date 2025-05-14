@@ -2,6 +2,6 @@
   "hand_animation_on_swap": false,
   "model": {
     "type":"model",
-    "model": "konex:item/quiz/hayaosibousi_down"
+    "model": "konex:item/quiz/hayaosibousi_up"
   }
 }
