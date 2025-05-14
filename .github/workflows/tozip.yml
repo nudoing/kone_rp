@@ -15,10 +15,13 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '34523859+nudoing@users.noreply.github.com'
+      - name: Set tag name
+        id: tag
+        run: echo "TAG_NAME=commit-${GITHUB_SHA::7}" >> $GITHUB_ENV
       - name: Create Tag
         run: |
-          git tag resourcepack
-          git push origin resourcepack
+          git tag $TAG_NAME
+          git push origin $TAG_NAME
       - name: archive release
         uses: thedoctor0/zip-release@main
         with:
@@ -30,8 +33,9 @@ jobs:
       - name: Upload release
         uses: softprops/action-gh-release@v1
         with:
-          name: release.zip
-          tag_name: resourcepack
+          name: "Auto Release ${{ env.TAG_NAME }}"
+          tag_name: ${{ env.TAG_NAME }}
+          files: release.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
