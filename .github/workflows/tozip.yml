@@ -11,7 +11,14 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
+      - name: Set up Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '34523859+nudoing@users.noreply.github.com'
+      - name: Create Tag
+        run: |
+          git tag resourcepack
+          git push resourcepack
       - name: archive release
         uses: thedoctor0/zip-release@main
         with:
