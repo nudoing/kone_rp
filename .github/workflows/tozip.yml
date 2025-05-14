@@ -20,3 +20,9 @@ jobs:
           filename: 'release.zip'
           exclusions: '*.git* .vscore/* release.zip'
 
+      - name: Upload release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: release.zip
+
+
