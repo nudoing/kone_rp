@@ -1,3 +1,7 @@
 {
-  "editor.wordBasedSuggestions": "off"
+  "editor.wordBasedSuggestions": "off",
+  "mcmodel-viewer.assetsRoots": [
+
+    "c:\\Users\\253ud\\AppData\\Roaming\\.minecraft\\resourcepacks\\koneshimaex\\assets"
+  ]
 }
