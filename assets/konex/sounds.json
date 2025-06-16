@@ -140,9 +140,14 @@
       {"name": "konex:se/sutajiamu_no_kansei"}
     ]
   },
-  "se.suzume_no_nakigoe_1":{
+  "voice.eeee.inoko":{
     "sounds": [
-      {"name": "konex:se/suzume_no_nakigoe_1"}
+      {"name": "konex:voice/eeee_inoko"}
+    ]
+  },
+  "voice.eeee.nenii":{
+    "sounds": [
+      {"name": "konex:voice/eeee_nenii"}
     ]
   }
 
