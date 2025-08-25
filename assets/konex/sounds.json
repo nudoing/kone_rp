@@ -149,6 +149,11 @@
     "sounds": [
       {"name": "konex:voice/eeee_nenii"}
     ]
+  },
+  "item.hand.chainsaw":{
+    "sounds": [
+      {"name": "konex:item/hand/chainsaw"}
+    ]
   }
 
 }
