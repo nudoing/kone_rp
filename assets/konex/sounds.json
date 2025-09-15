@@ -154,6 +154,19 @@
     "sounds": [
       {"name": "konex:item/hand/chainsaw"}
     ]
-  }
+  },
+  "voice.mi2o_dana_random":{
+    "sounds": [
+      {"name":"konex:voice/mi2o_dana1"},
+      {"name":"konex:voice/mi2o_dana2"},
+      {"name":"konex:voice/mi2o_dana3"},
+      {"name":"konex:voice/mi2o_dana4"}
+    ]
+  },
+  "voice.mi2o_dana1":{"sounds": [{"name":"konex:voice/mi2o_dana1"}]},
+  "voice.mi2o_dana2":{"sounds": [{"name":"konex:voice/mi2o_dana2"}]},
+  "voice.mi2o_dana3":{"sounds": [{"name":"konex:voice/mi2o_dana3"}]},
+  "voice.mi2o_dana4":{"sounds": [{"name":"konex:voice/mi2o_dana4"}]}
+
 
 }
