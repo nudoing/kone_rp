@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "konex:item/material/paraniumu"
+    "layer0": "konex:item/food/mainiti_puriketu"
   }
 }
