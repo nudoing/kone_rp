@@ -166,7 +166,10 @@
   "voice.mi2o_dana1":{"sounds": [{"name":"konex:voice/mi2o_dana1"}]},
   "voice.mi2o_dana2":{"sounds": [{"name":"konex:voice/mi2o_dana2"}]},
   "voice.mi2o_dana3":{"sounds": [{"name":"konex:voice/mi2o_dana3"}]},
-  "voice.mi2o_dana4":{"sounds": [{"name":"konex:voice/mi2o_dana4"}]}
+  "voice.mi2o_dana4":{"sounds": [{"name":"konex:voice/mi2o_dana4"}]},
+
+  "se.tasikani":{"sounds": [{"name": "konex:se/tasikani"}]},
+  "se.drumroll":{"sounds": [{"name": "konex:se/drumroll"}]}
 
 
 }
