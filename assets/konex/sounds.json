@@ -147,9 +147,16 @@
   },
   "voice.eeee.nenii":{
     "sounds": [
-      {"name": "konex:voice/eeee_nenii"}
+      {"name": "konex:voice/eeee_nenii"},
+      {"name": "konex:voice/sakebi_nenii"}
     ]
   },
+  "voice.sakebi.nenii":{
+    "sounds": [
+      {"name": "konex:voice/sakebi_nenii"}
+    ]
+  },
+
   "item.hand.chainsaw":{
     "sounds": [
       {"name": "konex:item/hand/chainsaw"}
