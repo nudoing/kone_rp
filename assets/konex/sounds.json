@@ -147,8 +147,8 @@
   },
   "voice.eeee.nenii":{
     "sounds": [
-      {"name": "konex:voice/eeee_nenii"},
-      {"name": "konex:voice/sakebi_nenii"}
+      {"name": "konex:voice/eeee_nenii","weight": 9},
+      {"name": "konex:voice/sakebi_nenii","weight": 1}
     ]
   },
   "voice.sakebi.nenii":{
